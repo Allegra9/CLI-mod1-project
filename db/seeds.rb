@@ -4,7 +4,7 @@ require 'nokogiri'
 # require 'faker'
 
 def scrap
-  pg = 1   #change page number here manually?
+  pg = 12   #change page number here manually?
   while pg < 200
     url = "https://www.zoopla.co.uk/to-rent/property/london/?identifier=london&q=London&search_source=home&radius=0&price_frequency=per_month&pn="+ pg.to_s
     page = Nokogiri::HTML(RestClient.get(url))
