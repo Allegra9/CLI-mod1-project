@@ -16,4 +16,5 @@ HOW TO:
 5.At the end, the application open your selected listings in the browser.
 6. Serious is there to help. He got this.
 
-https://j.gifs.com/9QoGQZ.gif
+Demo video:
+https://youtu.be/E4u1C8upSFM
