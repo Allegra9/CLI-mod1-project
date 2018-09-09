@@ -1,5 +1,5 @@
 # CLI-mod1-project
-CLI (command-line-interface) appliacation written in Ruby. 
+CLI (command-line-interface) application written in Ruby. 
 Voice PA to help browse property listings (web scrapped).     
 //done in collab with @HugoSanchez
 
