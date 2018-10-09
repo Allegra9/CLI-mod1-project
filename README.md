@@ -1,4 +1,4 @@
-## "Serious" - CLI (command-line-interface) application written in Ruby. 
+## "Serious" - CLI (command-line-interface) Ruby applucation 
 
 “Serious” virtual voice assistant will help you filter existing real-estate rental listings. CLI, web scrapper. 
 Tech: Ruby, ActiveRecord.
